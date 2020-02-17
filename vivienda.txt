@@ -1,0 +1,3 @@
+vivienda:
+	tipo:
+		apartamento
