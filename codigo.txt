@@ -2,3 +2,5 @@ Persona:
 	Nombre
 	Apellido
 	Dirrección
+	Edad
+
