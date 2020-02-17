@@ -1,3 +1,9 @@
 vehiculo
     tipo
         moto
+    modelo
+        zs
+    color
+        gris
+    año
+        2020
