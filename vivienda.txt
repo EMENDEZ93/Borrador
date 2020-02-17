@@ -1,0 +1,9 @@
+vivienda:
+	tipo:
+		apartamento
+	numero de cuartos:
+		4
+	numero de baños:
+		2
+	parqueadero:
+		no aplica
